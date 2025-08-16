@@ -1,0 +1,38 @@
+State,Capital,Latitude,Longitude,weather,weather_description,Temperature
+Abia,Umuahia,5.5333,7.4833,Clouds,overcast clouds,23
+Adamawa,Yola,9.2,12.4833,Clouds,scattered clouds,28
+Akwa Ibom,Uyo,5.05,7.9333,Clouds,overcast clouds,23
+Anambra,Awka,6.2167,7.0667,Clouds,broken clouds,23
+Bauchi,Bauchi,10.3167,9.8333,Rain,heavy intensity rain,23
+Bayelsa,Yenagoa,4.9269,6.2642,Clouds,overcast clouds,24
+Benue,Makurdi,7.7333,8.5333,Clouds,scattered clouds,23
+Borno,Maiduguri,11.8333,13.15,Rain,light rain,24
+Cross River,Calabar,4.95,8.325,Clouds,overcast clouds,23
+Delta,Asaba,6.2,6.7333,Clouds,broken clouds,23
+Ebonyi,Abakaliki,6.3333,8.1,Clouds,broken clouds,23
+Edo,Benin City,6.3333,5.6167,Clouds,broken clouds,23
+Ekiti,Ado-Ekiti,7.6167,5.2167,Clouds,overcast clouds,21
+Enugu,Enugu,6.4403,7.4939,Clouds,scattered clouds,27
+FCT,Abuja,9.0765,7.3986,Clouds,broken clouds,23
+Gombe,Gombe,10.2833,11.1667,Clouds,overcast clouds,26
+Imo,Owerri,5.4833,7.0333,Clouds,overcast clouds,25
+Jigawa,Dutse,11.7,9.3333,Clouds,broken clouds,29
+Kaduna,Kaduna,10.5167,7.4333,Clouds,broken clouds,24
+Kano,Kano,12.0,8.5167,Clouds,scattered clouds,29
+Katsina,Katsina,12.9833,7.6,Clouds,overcast clouds,28
+Kebbi,Birnin Kebbi,12.45,4.2,Clouds,broken clouds,28
+Kogi,Lokoja,7.8023,6.7333,Clouds,broken clouds,25
+Kwara,Ilorin,8.5,4.55,Clouds,scattered clouds,27
+Lagos,Ikeja,6.6058,3.3494,Clouds,broken clouds,26
+Nasarawa,Lafia,8.4833,8.5167,Clouds,broken clouds,24
+Niger,Minna,9.6167,6.55,Clouds,scattered clouds,27
+Ogun,Abeokuta,7.15,3.35,Clouds,overcast clouds,24
+Ondo,Akure,7.25,5.2,Clouds,overcast clouds,22
+Osun,Osogbo,7.7667,4.5667,Clouds,overcast clouds,23
+Oyo,Ibadan,7.3776,3.947,Clouds,broken clouds,24
+Plateau,Jos,9.9333,8.8833,Rain,light rain,21
+Rivers,Port Harcourt,4.75,7.0,Clouds,overcast clouds,27
+Sokoto,Sokoto,13.0667,5.2333,Clouds,overcast clouds,29
+Taraba,Jalingo,8.9,11.3667,Clouds,overcast clouds,24
+Yobe,Damaturu,11.75,11.9667,Clouds,overcast clouds,26
+Zamfara,Gusau,12.1667,6.6667,Clouds,broken clouds,26
